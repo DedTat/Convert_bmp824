@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1493755518 source:f:\Политех\Архитектура ЭВМ\laboratory1\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+
+1493755518 source:f:\Политех\Архитектура ЭВМ\2\laboratory1\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+
+1493755518 source:f:\Политех\Архитектура ЭВМ\Окончательный вариант\laboratory1\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+
